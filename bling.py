@@ -1,4 +1,4 @@
-phone_number = "***REMOVED***"
+phone_number = "AAA"
 
 def call():
 	return phone_number
